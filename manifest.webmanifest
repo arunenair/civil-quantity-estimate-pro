@@ -1,0 +1,17 @@
+{
+  "name": "Civil Quantity & Estimate Pro",
+  "short_name": "Civil Estimate Pro",
+  "description": "Civil quantity calculation and cost estimation for Indian construction work.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1f5fae",
+  "lang": "en-IN",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ]
+}
