@@ -1,17 +1,1 @@
-{
-  "name": "Civil Quantity & Estimate Pro",
-  "short_name": "Civil Estimate Pro",
-  "description": "Civil quantity calculation and cost estimation for Indian construction work.",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "any",
-  "background_color": "#f5f7fa",
-  "theme_color": "#1f5fae",
-  "lang": "en-IN",
-  "categories": [
-    "business",
-    "productivity",
-    "utilities"
-  ]
-}
+{"name":"Civil Quantity & Estimate Pro","short_name":"Civil Estimate Pro","start_url":"./","scope":"./","display":"standalone","orientation":"any","background_color":"#f4f7fb","theme_color":"#155eef","description":"Civil quantity calculation, BOQ, editable rates, materials, steel, plumbing and electrical estimation.","lang":"en-IN","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
